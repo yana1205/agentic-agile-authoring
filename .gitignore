@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/settings.json
+*.swp
+*.swo
+
+# Node (if any tooling added later)
+node_modules/
+dist/
+
+# Local overrides
+*.local
+.env
+.env.*
+!.env.example
+
+# Claude Code local settings (keep shared settings, ignore personal)
+.claude/settings.local.json
