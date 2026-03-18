@@ -1,9 +1,5 @@
 {
   "name": "agentic-agile-authoring",
   "description": "Agent skills and modes for agile document and content authoring workflows.",
-  "version": "0.1.0",
-  "author": {
-    "name": "agentic-agile-authoring"
-  },
-  "skills": "./skills/"
+  "version": "0.0.1"
 }

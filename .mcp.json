@@ -1,0 +1,12 @@
+{
+	"mcpServers": {
+		"trestle": {
+			"command": "uvx",
+			"args": [
+				"--from",
+				"git+https://github.com/oscal-compass/compliance-trestle-mcp.git",
+				"trestle-mcp"
+			]
+		}
+	}
+}
